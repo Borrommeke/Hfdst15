@@ -89,6 +89,10 @@ padding: 7px 5px;
 background-color: #98fb98;
 }
 
+form{
+padding: 10px 10px;
+}
+
 input[name="text"], input[name="email"], input[name="tel"], textarea, button{
 display: block;
 margin: 15px 10px;
