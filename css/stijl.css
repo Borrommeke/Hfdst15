@@ -42,6 +42,10 @@ padding-right: 10px;
   margin-right: 15px;
 }
 
+p{
+padding: 5 px 5px;
+}
+
 img.displayed{
 display: block;
 margin-left: auto;
