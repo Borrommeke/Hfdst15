@@ -8,7 +8,7 @@ font-family: Verdana;
 
 .head, .foot{
 background-color: #778899;
-width: 100%;
+width: 97%;
 height: 175px;
 text-align: center;
   padding: 5px;
@@ -37,7 +37,7 @@ text-decoration: none;
 }
 
 div{
-width: 98,8%;
+width: 97%;
 min-height: 300px;
 background-color: #98fb98;
 padding: 15px;
@@ -79,7 +79,7 @@ border-style: none;
 
 table{
 border-collapse: collapse;
-width: 100%;
+width: 97%;
   padding: 5px;
 }
 
