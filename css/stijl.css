@@ -90,7 +90,7 @@ background-color: #98fb98;
 }
 
 form{
-padding: 10px 10px;
+padding: 5px 5px;
 }
 
 input[name="text"], input[name="email"], input[name="tel"], textarea, button{
@@ -115,5 +115,5 @@ background-color: #ff0000;
 color: #ffff00;
 border-radius: 8px;
 box-shadow: inset 2px 2px 5px #00ff00;
-padding-bottom: 10px;
+padding-bottom: 5px;
 }
