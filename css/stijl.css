@@ -41,6 +41,8 @@ width: 98,8%;
 min-height: 300px;
 background-color: #98fb98;
 padding: 15px;
+  margin-left: 15 px;
+  margin-right: 15px;
 }
 
 img.displayed{
@@ -79,6 +81,8 @@ table{
 border-collapse: collapse;
 width: 100%;
   padding: 5px;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 
 td, th{
